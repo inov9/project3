@@ -75,3 +75,10 @@
 .feed__subtitle{color:#0d0d0d;font-size:18px;font-weight:700;text-align:left}
 .feed__count{color:#646464;font-size:14px;font-weight:300;text-align:left}
 .feed__descr{color:#0d0d0d;font-size:16px;font-weight:300;text-align:left}
+.footer{height:630px;position:relative}
+.footer__info{position:absolute;top:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%);width:460px;height:270px;background-color:#c70101;padding:50px 68px 60px 68px}
+.footer__addr{margin-bottom:36px;color:#fff;font-size:20px;line-height:20px;font-weight:500;text-align:center}
+.footer__phone{display:block;color:#fff;font-size:20px;line-height:20px;font-weight:700;text-align:center;margin-bottom:38px}
+.footer__phone:hover{color:#fff}
+.footer__social-item{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:50px;height:50px;border:2px solid #fff;border-radius:100%;margin:0 15px}
+.footer__social{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
